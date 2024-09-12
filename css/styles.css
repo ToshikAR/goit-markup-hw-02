@@ -74,10 +74,7 @@ a {
   margin-right : 0;
 }
 
-
 /* Top line */
-
-
 .header {
   display: flex;
   align-items: center;
@@ -150,7 +147,6 @@ a {
   color: #434455;
 }
 
-
 /* Top Line */
 .hero-image {
   text-align: center;
@@ -161,7 +157,6 @@ a {
 }
 
 .hero-image h1 {
-
   padding-bottom: 5%;
 }
 
@@ -181,9 +176,7 @@ button {
   font-size: 16px;
 }
 
-
-/*--------------------------- Section 1*/
-
+/*Section 1*/
 .Section-1 {
   padding: 7%;
   margin: 0;
@@ -198,8 +191,7 @@ button {
   padding-bottom: 10px;
 }
 
-
-/*--------------------Section 2*/
+/*Section 2*/
 .Section-2 {
   background-color: #F4F4FD;
   padding: 0;
@@ -234,15 +226,7 @@ button {
   text-align: center;
 }
 
-
-
-
-
-
-
-
-
-/* ---- Section 3 ----*/
+/* Section 3 */
 .Section-3 {
   background-color: var(--backgr-color);
   padding: 0;
@@ -275,11 +259,6 @@ button {
 .column p {
   padding-left: 5px;
 }
-
-
-
-
-
 
 /* Footer */
 .footer {
